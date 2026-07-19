@@ -15,6 +15,6 @@ In recent years, investigation into the cognitive and neural mechanisms of autob
 *   **Clinical Efficacy Scoping:** Synthesized outcomes across both nonclinical and cognitively-impaired cohorts to determine the therapeutic viability of digital memory interventions and the current state of the field.
 
 ## Industry Application
-*How the insights from this review translate to commercial health-tech and data strategy:*
+*How the insights from this review translate to commercial data science:*
 *   **Product Strategy for Wearable Technologies:** This research evaluates the behavioral and neural impacts of passive, first-person data capture. The findings can provide a foundational framework for companies developing wearable technologies like smart glasses or life-logging equipment, specifically regarding how users cognitively process and retrieve memories from passively recorded visual timelines.
-*   **Translating Raw Data to Cognitive Value:** These findings highlight the gap between laboratory testing and real-world ("ecological") data capture. This understanding is critical for data science teams in digital health who need to translate messy, continuous consumer device metrics into meaningful indicators of a user's cognitive health.
+*   **Synthesizing Research to Provide Value:** This review highlights the gap between laboratory testing and real-world ("ecological") data capture, condenses existing literature, and reveals opportunities for further research. This is critical for data science teams to better understand viable research avenues when searching for meaningful indicators of users' cognitive health.
