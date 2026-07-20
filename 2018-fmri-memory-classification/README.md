@@ -9,7 +9,7 @@ Studies of autobiographical memory retrieval often use photographs to probe part
 ---
 
 ## Technical Methodologies
-*Although raw data and code are protected under university IP, this analysis utilized a rigorous machine learning and data engineering pipeline:*
+*Although raw data and code are protected under university intellectual property, this analysis utilized a rigorous machine learning and data engineering pipeline:*
 *   **Tools:** MATLAB (Statistical Parametric Mapping toolbox [SPM8], Princeton MVPA Toolbox, GLMdenoise, Psychtoolbox), Microsoft Excel, SPSS.
 *   **Machine Learning Classification:** Applied multi-voxel pattern analysis (MVPA) to classify distinct cognitive states and reveal their associated neural activation. Trained Regularized Logistic Regression (RLR) algorithms with ridge penalties, validated via 5-fold cross-validation and evaluated using AUC-ROC metrics.
 *   **Artifact Mitigation:** Implemented advanced denoising pipelines (`GLMdenoise`) and regressed out behavioral confounds (reaction times) from the timeseries to ensure the algorithm learned true biological signals rather than systemic noise.
