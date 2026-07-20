@@ -21,12 +21,3 @@ Studies of autobiographical memory retrieval often use photographs to probe part
 *   **Cognitive State Classification:** Demonstrates a framework for using physiological signals to classify and predict a user's underlying cognitive state, which can be applicable for purposes including adaptive human-computer interaction or wearable technology and digital health companies targeting personalization.
 *   **Complex Signal Feature Engineering:** The ability to meticulously clean, detrend, and validate unstructured, high-dimensional biological data is broadly applicable to research and algorithm development featuring noisy datasets, particularly in any field focused on physiological or biological informatics.
 *   **Experimental Algorithm Development**: Creating an experiment specifically to allow for sound application of machine learning algorithms and implementing predictive MVPA and searchlight mapping classifiers is relevant to areas focused on stringent testing protocols, model interpretability, and revealing subtle drivers of user behavior.
-
-
-
-
-
-
-
-
-
