@@ -11,13 +11,22 @@ Studies of autobiographical memory retrieval often use photographs to probe part
 ## Technical Methodologies
 *Although raw data and code are protected under university intellectual property, this analysis utilized a rigorous machine learning and data engineering pipeline:*
 *   **Tools:** MATLAB (Statistical Parametric Mapping toolbox [SPM8], Princeton MVPA Toolbox, GLMdenoise, Psychtoolbox), Microsoft Excel, SPSS.
-*   **Machine Learning Classification:** Applied multi-voxel pattern analysis (MVPA) to classify distinct cognitive states and reveal their associated neural activation. Trained Regularized Logistic Regression (RLR) algorithms with ridge penalties, validated via 5-fold cross-validation and evaluated using AUC-ROC metrics.
-*   **Artifact Mitigation:** Implemented advanced denoising pipelines (`GLMdenoise`) and regressed out behavioral confounds (reaction times) from the timeseries to ensure the algorithm learned true biological signals rather than systemic noise.
-*   **High-Dimensional Data Pipeline:** Engineered spatial-temporal features from massive, noisy 4D fMRI datasets using MATLAB, SPM8, and the Princeton MVPA Toolbox.
-*   **Sensor Telemetry:** Utilized passive wearable devices (Autographer cameras) equipped with sensors to autonomously capture real-world environmental data.
+*   **Federally Funded Machine Learning Classification:** Supported by an award from the National Science Foundation (NSF) Graduate Research Fellowship Program, this pipeline applied multi-voxel pattern analysis (MVPA) to classify and predict distinct cognitive states based on neural activity from functional magnetic resonance imaging (fMRI) data. This required training regularized logistic regression (RLR) algorithms with ridge penalties, validation via repeated 5-fold cross-validations, and evaluation using area under the curve (AUC) performance metrics.
+*   **High-Dimensional Modeling and Searchlight Mapping:** Deployed whole-brain searchlight mapping classification analyses to isolate additional neural regions of predictive activation signals by training a series of RLR classifiers iteratively repeated throughout the brain.
+*   **Machine Learning Timeseries Artifact Mitigation:** Implemented advanced denoising pipelines and regressed out behavioral confounds such as participants' experimental reaction times to target true biological signals. Validated denoising procedures by performing additional MVPA analyses with shuffled class labels, using randomization to confirm the lack of workflow biases.
+*   **Novel Ecological Experimental Design:** Designed an end-to-end, multi-week experimental paradigm that utilized passive wearable camera devices equipped with electronic sensors to autonomously capture unstructured, real-world environmental data and avoid the limitations of sterile laboratory stimuli.
 
 ## Industry Application
 *How this methodology translates to commercial data science:*
-*   **Algorithm Development for Noisy Sensors:** The ability to clean, detrend, and build predictive classifiers on unstructured, high-dimensional biological data is applicable to research and algorithm development at wearable technology and digital health companies.
-*   **Brain-Computer Interfaces (BCI) & Spatial Computing:** The multi-voxel pattern analysis (MVPA) and searchlight mapping techniques are relevant to analyzing real-time neurological or physiological sensor data for applications such as BCI, AR/VR, and neuromarketing.
-*   **Cognitive State Classification:** Demonstrates a framework for using physiological signals to classify a user's underlying cognitive state (firsthand experience vs. secondhand knowledge), which can be applicable for purposes including adaptive human-computer interaction.
+*   **Cognitive State Classification:** Demonstrates a framework for using physiological signals to classify and predict a user's underlying cognitive state, which can be applicable for purposes including adaptive human-computer interaction or wearable technology and digital health companies targeting personalization.
+*   **Complex Signal Feature Engineering:** The ability to meticulously clean, detrend, and validate unstructured, high-dimensional biological data is broadly applicable to research and algorithm development featuring noisy datasets, particularly in any field focused on physiological or biological informatics.
+*   **Experimental Algorithm Development**: Creating an experiment specifically to allow for sound application of machine learning algorithms and implementing predictive MVPA and searchlight mapping classifiers is relevant to areas focused on stringent testing protocols, model interpretability, and revealing subtle drivers of user behavior.
+
+
+
+
+
+
+
+
+
