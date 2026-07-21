@@ -9,7 +9,7 @@ In recent years, investigation into the cognitive and neural mechanisms of autob
 
 ---
 
-## Analytical Scope and Synthesis
+## Analytical Scope
 *As a comprehensive review paper, this research demonstrates the ability to evaluate and synthesize complex experimental data across multiple domains:*
 *   **Federally Funded Methodological Review:** Supported by an award from the National Science Foundation Graduate Research Fellowship Program, this research examined the implementation and outcomes of advanced machine learning frameworks, such as multi-voxel pattern analysis (MVPA) algorithms, applied to complex geospatial and neuroimaging data.
 *   **Comprehensive Landscape Analysis:** Systematically aggregated peer-reviewed literature to map the trajectory of wearable camera research, identifying key methodological shifts, technological adoption trends, and critical knowledge gaps.
