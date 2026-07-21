@@ -1,7 +1,10 @@
 # Medial Temporal Lobe Tau Aggregation Relates to Divergent Cognitive and Emotional Empathy Abilities in Alzheimer’s Disease
 
-**Published In:** Journal of Alzheimer’s Disease, 2023  
-**DOI:** [https://doi.org/10.3233/JAD-230367](https://doi.org/10.3233/JAD-230367)
+**Published In:** Journal of Alzheimer’s Disease, 2023 [(DOI)](https://doi.org/10.3233/JAD-230367)  
+
+**Contributions:** Lead researcher and first author. Investigated the core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, conducted all statistical modeling and data visualizations in R, and authored the final publication.
+
+---
 
 ## Abstract
 Background:  
@@ -28,6 +31,8 @@ Across AD clinical syndromes, medial temporal lobe tau aggregation is associated
 *   **Multivariate Cohort Analysis:** Conducted multivariate linear regressions to characterize the clinical cohort (Amyloid-β positive individuals across multiple neurodegenerative syndromes), quantifying statistically significant elevations in emotional empathy alongside simultaneous declines in cognitive empathy.
 *   **Exploratory Data Analysis (EDA) for Cohort Stratification:** Identified localized differences in behavioral profiles by conducting exploratory multivariate linear regressions followed by Type-II analyses of variance (ANOVA) and Bonferroni-corrected post-hoc tests to segment the broader clinical population into syndrome-specific cohorts.
 *   **Biomarker and Behavioral Integration:** Cross-analyzed dual-tracer molecular PET scans (Amyloid-β and tau) with multidimensional cross-sectional behavioral indices.
+
+---
 
 ## Industry Application
 *How this methodology translates to commercial data science:*
