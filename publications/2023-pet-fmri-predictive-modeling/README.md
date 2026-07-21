@@ -2,7 +2,7 @@
 
 **Published In:** NeuroImage: Clinical, 2023 [(DOI)](https://doi.org/10.1016/j.nicl.2022.103282)  
 
-**Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the final publication.
+**Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, behavioral, and genomic), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the final publication.
 
 ---
 
@@ -17,7 +17,7 @@ Enhanced emotional empathy, the ability to share others’ affective experiences
 *   **Longitudinal Behavioral Modeling:** Applied multivariate mixed-model linear regressions to calculate individualized emotional empathy trajectories, quantifying subtle socioemotional shifts in healthy older adults that occurred over a period of up to 7.3 years. This modeling revealed a significant effect where Amyloid-β positive individuals exhibited accelerated empathy gains compared to their Amyloid-β negative counterparts.
 *   **Stratified Pipeline Development for Unequal Variances:** Created a multi-step pipeline to extract individualized random-effect slopes from longitudinal behavioral models stratified based on group membership and deploy these trajectories as target variables. This avoided heteroscedasticity (differing random-effect group variances) and ensured the individualized behavioral trajectories were statistically unbiased.
 *   **Predicting Individual Trajectories with Connectivity Patterns:** Conducted forward-selection hierarchical regression analyses to find exact neural features from functional connectivity tf-fMRI data that explained individual behavioral changes over time. 
-*   **Novel Multimodal Integration:** Implemented one of the first analytical frameworks to successfully cross-analyze longitudinal socioemotional behavioral metrics with structural magnetic resonance imaging (MRI), task-free functional MRI (tf-fMRI), and molecular Amyloid-β positron emission tomography (PET) scans in order to better understand predictive changes in the Alzheimer's disease spectrum.
+*   **Novel Multimodal Integration:** Implemented one of the first analytical frameworks to successfully cross-analyze longitudinal socioemotional behavioral metrics and genomic covariates with structural magnetic resonance imaging (MRI), task-free functional MRI (tf-fMRI), and molecular Amyloid-β positron emission tomography (PET) scans in order to better understand predictive changes in the Alzheimer's disease spectrum.
 
 ---
 
