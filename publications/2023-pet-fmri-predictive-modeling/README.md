@@ -1,7 +1,10 @@
 # Increasing Empathic Concern Relates to Salience Network Hyperconnectivity in Cognitively Healthy Older Adults with Elevated Amyloid-β Burden
 
-**Published In:** NeuroImage: Clinical, 2023  
-**DOI:** [https://doi.org/10.1016/j.nicl.2022.103282](https://doi.org/10.1016/j.nicl.2022.103282)
+**Published In:** NeuroImage: Clinical, 2023 [(DOI)](https://doi.org/10.1016/j.nicl.2022.103282)  
+
+**Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, executed all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the final publication.
+
+---
 
 ## Abstract
 Enhanced emotional empathy, the ability to share others’ affective experiences, can be a feature of Alzheimer’s disease (AD), but whether emotional empathy increases in the preclinical phase of the disease is unknown. We measured emotional empathy over time (range = 0 – 7.3 years, mean = 2.4 years) in 86 older adults during a period in which they were cognitively healthy, functionally normal, and free of dementia symptoms. For each participant, we computed longitudinal trajectories for empathic concern (i.e., an other-oriented form of emotional empathy that promotes prosocial actions) and emotional contagion (i.e., a self-focused form of emotional empathy often accompanied by feelings of distress) from informant ratings of participants’ empathy on the Interpersonal Reactivity Index. Amyloid-β (Aβ) positron emission tomography (PET) scans were used to classify participants as either Aβ positive (Aβ+, n = 23) or negative (Aβ-, n = 63) based on Aβ-PET cortical binding. Participants also underwent structural and task-free functional magnetic resonance imaging approximately two years on average after their last empathy assessment, at which time most participants remained cognitively healthy. Results indicated that empathic concern, but not emotional contagion, increased more over time in Aβ+ participants than in Aβ- participants despite no initial group difference at the first measurement. Higher connectivity between certain salience network node-pairs (i.e., pregenual anterior cingulate cortex and periaqueductal gray) predicted longitudinal increases in empathic concern in the Aβ+ group but not in the Aβ- group. The Aβ+ participants also had higher overall salience network connectivity than Aβ- participants despite no differences in gray matter volume. These results suggest gains in empathic concern may be a very early feature of AD pathophysiology that relates to hyperconnectivity in the salience network, a system that supports emotion generation and interoception. A better understanding of emotional empathy trajectories in the early stages of AD pathophysiology will broaden the lens on preclinical AD changes and help clinicians to identify older adults who should be screened for AD biomarkers.
@@ -15,6 +18,8 @@ Enhanced emotional empathy, the ability to share others’ affective experiences
 *   **Stratified Pipeline Development for Unequal Variances:** Created a multi-step pipeline to extract individualized random-effect slopes from longitudinal behavioral models stratified based on group membership and deploy these trajectories as target variables. This avoided heteroscedasticity (differing random-effect group variances) and ensured the individualized behavioral trajectories were statistically unbiased.
 *   **Predicting Individual Trajectories with Connectivity Patterns:** Conducted forward-selection hierarchical regression analyses to find exact neural features from functional connectivity tf-fMRI data that explained individual behavioral changes over time. 
 *   **Novel Multimodal Integration:** Implemented one of the first analytical frameworks to successfully cross-analyze longitudinal socioemotional behavioral metrics with structural magnetic resonance imaging (MRI), task-free functional MRI (tf-fMRI), and molecular Amyloid-β positron emission tomography (PET) scans in order to better understand predictive changes in the Alzheimer's disease spectrum.
+
+---
 
 ## Industry Application
 *How this methodology translates to commercial data science:*
