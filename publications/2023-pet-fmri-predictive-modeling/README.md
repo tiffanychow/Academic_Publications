@@ -1,4 +1,4 @@
-# Increasing empathic concern relates to salience network hyperconnectivity in cognitively healthy older adults with elevated amyloid-β burden
+# Increasing Empathic Concern Relates to Salience Network Hyperconnectivity in Cognitively Healthy Older Adults with Elevated Amyloid-β Burden
 
 **Published In:** NeuroImage: Clinical, 2023  
 **DOI:** [https://doi.org/10.1016/j.nicl.2022.103282](https://doi.org/10.1016/j.nicl.2022.103282)
