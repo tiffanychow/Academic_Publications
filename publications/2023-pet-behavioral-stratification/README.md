@@ -1,6 +1,6 @@
 # Medial Temporal Lobe Tau Aggregation Relates to Divergent Cognitive and Emotional Empathy Abilities in Alzheimer’s Disease
 
-**Published In:** Journal of Alzheimer’s Disease, 2023
+**Published In:** Journal of Alzheimer’s Disease, 2023  
 **DOI:** [https://doi.org/10.3233/JAD-230367](https://doi.org/10.3233/JAD-230367)
 
 ## Abstract
