@@ -1,8 +1,10 @@
 # Neurocognitive Mechanisms of Real-World Autobiographical Memory Retrieval: Insights from Studies Using Wearable Camera Technology
 
-**Published In:** Annals of the New York Academy of Sciences, 2017  
-**DOI:** [https://doi.org/10.1111/nyas.13353](https://doi.org/10.1111/nyas.13353)  
+**Published In:** Annals of the New York Academy of Sciences, 2017 [(DOI)](https://doi.org/10.1111/nyas.13353)  
+
 **Funding:** National Science Foundation Graduate Research Fellowship
+
+**Contributions:** Lead author. Conducted the comprehensive literature search and aggregation, synthesized behavioral and neuroimaging findings across clinical and healthy populations, evaluated experimental design methodologies, and authored the final publication.
 
 ## Abstract
 In recent years, investigation into the cognitive and neural mechanisms of autobiographical memory has been aided by the use of experimental paradigms incorporating wearable camera technology. By effortlessly capturing first-person images of one's life events, these cameras provide a rich set of naturalistic stimuli that can later be used to trigger the recall of specific episodes. Here, we chronicle the development and progression of such studies in behavioral and neuroimaging examinations of both clinical and nonclinical adult populations. Experiments examining the effects of periodic review of first-person images of life events have documented enhancements of autobiographical memory retrieval. Such benefits are most pronounced in patients with memory impairments, but there is mounting evidence that cognitively healthy individuals may benefit as well. Findings from functional magnetic resonance imaging experiments using wearable camera stimuli as retrieval probes have produced results that, although largely consistent with the broader episodic memory literature, have significantly extended prior findings concerning the underlying mnemonic processes and the neural representation of autobiographical information. Taken together, wearable camera technology provides a unique opportunity for studies of autobiographical memory to more closely approximate real-world conditions, thus offering enhanced ecological validity and opening up new avenues for experimental work.
