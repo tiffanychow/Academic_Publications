@@ -4,7 +4,7 @@
 
 **Recognition:** Awarded **"Top Abstract"** at the conference and published in *The American Journal of Bioethics Neuroscience*  
 
-**Keywords:** Functional Magnetic Resonance Imaging (fMRI), Machine Learning Classification, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Wearable Camera Technology, Experimental Design, Neuroethics  
+**Keywords:** Functional Magnetic Resonance Imaging (fMRI), Machine Learning Classification, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Wearable Camera Technology, Experimental Design, Episodic Memory, Neuroethics  
 
 ---
 
