@@ -2,6 +2,8 @@
 
 **Conference:** International Conference on Memory (ICOM) | Budapest, Hungary  
 
+**Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all analyses in MATLAB and SPSS, developed primary data visualizations, and authored the final publication and presentation materials.
+
 **Keywords:** Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), Parameter Extraction, Hippocampal Long Axis, Wearable Camera Technology, Experimental Design, Episodic Memory  
 
 ---
