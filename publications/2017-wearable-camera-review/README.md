@@ -1,4 +1,4 @@
-# Neurocognitive mechanisms of real-world autobiographical memory retrieval: insights from studies using wearable camera technology
+# Neurocognitive Mechanisms of Real-World Autobiographical Memory Retrieval: Insights from Studies Using Wearable Camera Technology
 
 **Published In:** Annals of the New York Academy of Sciences, 2017  
 **DOI:** [https://doi.org/10.1111/nyas.13353](https://doi.org/10.1111/nyas.13353)  
