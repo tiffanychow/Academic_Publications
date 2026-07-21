@@ -2,7 +2,7 @@
 
 **Published In:** Journal of Alzheimer’s Disease, 2023 [(DOI)](https://doi.org/10.3233/JAD-230367)  
 
-**Contributions:** Lead researcher and first author. Investigated the core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, conducted all statistical modeling and data visualizations in R, and authored the final publication.
+**Contributions:** Lead researcher and first author. Investigated the core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, conducted all statistical modeling and visualizations in R, and authored the final publication.
 
 ---
 
