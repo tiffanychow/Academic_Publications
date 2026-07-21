@@ -1,4 +1,4 @@
-# Multi-voxel pattern classification differentiates personally experienced event memories from secondhand event knowledge
+# Multi-Voxel Pattern Classification Differentiates Personally Experienced Event Memories from Secondhand Event Knowledge
 
 **Published In:** NeuroImage, 2018  
 **DOI:** [https://doi.org/10.1016/j.neuroimage.2018.04.024](https://doi.org/10.1016/j.neuroimage.2018.04.024)  
