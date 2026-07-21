@@ -9,7 +9,7 @@ Neuroimaging modalities span structural magnetic resonance imaging (MRI), functi
 ## Research Index
 Click on any of the **[View Summary]** links in the table below to explore the publications.
 
-| Year | Title | Venue | Primary Methodologies | Key Technical Keywords | Summary Link |
+| Year | Title | Journal | Primary Methodologies | Keywords | Summary Link |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **2023** | *Medial Temporal Lobe Tau Aggregation Relates to Divergent Cognitive and Emotional Empathy Abilities in Alzheimer’s Disease* | *Journal of Alzheimer's Disease* | Forward-Selection Hierarchical Regression, Multivariate Linear Regression, Cohort Analysis, Biomarker and Behavioral Integration | Population Stratification, Divergent Outcomes, Feature Extraction, Alzheimer's Disease, Amyloid-β, Tau, PET | [View Summary](./2023-pet-behavioral-stratification/) |
 | **2023** | *Increasing Empathic Concern Relates to Salience Network Hyperconnectivity in Cognitively Healthy Older Adults with Elevated Amyloid-β Burden* | *NeuroImage: Clinical* | Longitudinal Mixed-Effects Modeling, Forward-Selection Hierarchical Regression, Multivariate Linear Regression, Multi-Modal Integration | Feature Engineering, Trajectory Forecasting, Functional Connectivity, Alzheimer's Disease, Amyloid-β, Tau, PET, MRI, tf-fMRI | [View Summary](./2023-pet-fmri-predictive-modeling/) |
