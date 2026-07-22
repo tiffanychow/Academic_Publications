@@ -1,8 +1,8 @@
 # Multi-Voxel Pattern Classification Differentiates Personally Experienced Event Memories from Secondhand Event Knowledge
 
-**Published In:** NeuroImage, 2018 [(DOI)](https://doi.org/10.1016/j.neuroimage.2018.04.024)  
+**Published In:** NeuroImage, 2018 [(DOI)](https://doi.org/10.1016/j.neuroimage.2018.04.024)
 
-**Funding:** National Science Foundation Graduate Research Fellowship  
+**Funding:** National Science Foundation Graduate Research Fellowship
 
 **Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging data collection, conducted all data analyses in MATLAB, and authored the final publication.
 
