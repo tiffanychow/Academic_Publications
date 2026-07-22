@@ -1,6 +1,6 @@
 # Increasing Empathic Concern Relates to Salience Network Hyperconnectivity in Cognitively Healthy Older Adults with Elevated Amyloid-β Burden
 
-**Published In:** NeuroImage: Clinical, 2023 [(DOI)](https://doi.org/10.1016/j.nicl.2022.103282)  
+**Published In:** NeuroImage: Clinical, 2023 [(DOI)](https://doi.org/10.1016/j.nicl.2022.103282)
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the final publication.
 
