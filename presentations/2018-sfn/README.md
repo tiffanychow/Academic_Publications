@@ -4,7 +4,7 @@
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (behavioral and genomic), conducted all statistical modeling and data visualizations in R, and authored the final publication and presentation materials.
 
-**Keywords:** Longitudinal Behavioral Trajectory Modeling, Trajectory Forecasting, Cohort Stratification, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genomic Risk Factors, Affective Empathy, Cognitive Empathy, Interpersonal Reactivity Index (IRI)
+**Keywords:** Longitudinal Behavioral Trajectory Modeling, Trajectory Forecasting, Cohort Stratification, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genomic Risk Factors, Neurodegenerative Disorder, Affective Empathy, Cognitive Empathy, Interpersonal Reactivity Index (IRI)
 
 ---
 
