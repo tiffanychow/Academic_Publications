@@ -1,25 +1,25 @@
 # Medial Temporal Lobe Tau Aggregation Relates to Divergent Cognitive and Emotional Empathy Abilities in Alzheimer’s Disease
 
-**Published In:** Journal of Alzheimer’s Disease, 2023 [(DOI)](https://doi.org/10.3233/JAD-230367)  
+**Published In:** Journal of Alzheimer’s Disease, 2023 [(DOI)](https://doi.org/10.3233/JAD-230367)
 
 **Contributions:** Lead researcher and first author. Investigated the core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating neuroimaging and behavioral data, conducted all statistical modeling and visualizations in R, and authored the final publication.
 
 ---
 
 ## Abstract
-Background:  
-In Alzheimer’s disease (AD), the gradual accumulation of amyloid-β (Aβ) and tau proteins may underlie alterations in empathy.  
+Background:
+In Alzheimer’s disease (AD), the gradual accumulation of amyloid-β (Aβ) and tau proteins may underlie alterations in empathy.
 
-Objective:  
-To assess whether tau aggregation in the medial temporal lobes related to differences in cognitive empathy (the ability to take others’ perspectives) and emotional empathy (the ability to experience others’ feelings) in AD.  
+Objective:
+To assess whether tau aggregation in the medial temporal lobes related to differences in cognitive empathy (the ability to take others’ perspectives) and emotional empathy (the ability to experience others’ feelings) in AD.
 
-Methods:  
-Older adults (n = 105) completed molecular Aβ positron emission tomography (PET) scans. Sixty-eight of the participants (35 women) were Aβ positive and symptomatic with diagnoses of mild cognitive impairment, dementia of the Alzheimer’s type, logopenic variant primary progressive aphasia, or posterior cortical atrophy. The remaining 37 (22 women) were asymptomatic Aβ negative healthy older controls. Using the Interpersonal Reactivity Index, we compared current levels of informant-rated cognitive empathy (Perspective-Taking subscale) and emotional empathy (Empathic Concern subscale) in the Aβ positive and negative participants. The Aβ positive participants also underwent molecular tau-PET scans, which were used to investigate whether regional tau burden in the bilateral medial temporal lobes related to empathy.  
+Methods:
+Older adults (n = 105) completed molecular Aβ positron emission tomography (PET) scans. Sixty-eight of the participants (35 women) were Aβ positive and symptomatic with diagnoses of mild cognitive impairment, dementia of the Alzheimer’s type, logopenic variant primary progressive aphasia, or posterior cortical atrophy. The remaining 37 (22 women) were asymptomatic Aβ negative healthy older controls. Using the Interpersonal Reactivity Index, we compared current levels of informant-rated cognitive empathy (Perspective-Taking subscale) and emotional empathy (Empathic Concern subscale) in the Aβ positive and negative participants. The Aβ positive participants also underwent molecular tau-PET scans, which were used to investigate whether regional tau burden in the bilateral medial temporal lobes related to empathy.
 
-Results:  
-Aβ positive participants had lower perspective-taking and higher empathic concern than Aβ negative healthy controls. Medial temporal tau aggregation in the Aβ positive participants had divergent associations with cognitive and emotional empathy. Whereas greater tau burden in the amygdala predicted lower perspective-taking, greater tau burden in the entorhinal cortex predicted greater empathic concern. Tau burden in the parahippocampal cortex did not predict either form of empathy.  
+Results:
+Aβ positive participants had lower perspective-taking and higher empathic concern than Aβ negative healthy controls. Medial temporal tau aggregation in the Aβ positive participants had divergent associations with cognitive and emotional empathy. Whereas greater tau burden in the amygdala predicted lower perspective-taking, greater tau burden in the entorhinal cortex predicted greater empathic concern. Tau burden in the parahippocampal cortex did not predict either form of empathy.
 
-Conclusions:  
+Conclusions:
 Across AD clinical syndromes, medial temporal lobe tau aggregation is associated with lower perspective-taking yet higher empathic concern.
 
 ---
@@ -39,5 +39,3 @@ Across AD clinical syndromes, medial temporal lobe tau aggregation is associated
 *   **Predictive Feature Extraction and Identification:** Deploying selective analyses to effectively localize predictive data features is relevant to efficiently building complex industry products such as targeted health algorithms or models.
 *   **Behavioral Proxy Development:** Demonstrates the ability to decouple behavioral metrics and map biological endpoints (regional tau aggregation) onto these distinct, quantifiable behavioral profiles. This would be applicable to creating proxy metrics for digital health products, where objective physiological data is used to predict user states or outcomes.
 *   **Advanced Stratification Modeling:** Shows expertise in segmenting complex clinical populations using a combination of molecular data and behavioral proxies to uncover non-obvious, counter-intuitive statistical effects that may provide insights into subtle socioemotional or health changes.
-
-
