@@ -1,6 +1,6 @@
 # Assessing fMRI-Based Memory Detection: Can Personally Experienced Event Memories Be Differentiated from Second-Hand Event Knowledge?
 
-**Conference:** International Neuroethics Society (INS) Annual Meeting | San Diego, CA, USA
+**Conference:** International Neuroethics Society (INS) Annual Meeting | 2016 | San Diego, CA, USA
 
 **Recognition:** Awarded **"Top Abstract"** at the conference and published in *The American Journal of Bioethics Neuroscience*
 
