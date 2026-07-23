@@ -1,6 +1,6 @@
 # Differential Responsivity of Left and Right Rostrolateral Prefrontal Cortex to Temporal Order Violations During the Retrieval of Real-World Memories
 
-**Conference:** Society for Neuroscience (SfN) Annual Meeting | San Diego, CA, USA
+**Conference:** Society for Neuroscience (SfN) Annual Meeting | 2016 | San Diego, CA, USA
 
 **Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all analyses in MATLAB and SPSS, developed primary data visualizations, and authored the presentation materials.
 
