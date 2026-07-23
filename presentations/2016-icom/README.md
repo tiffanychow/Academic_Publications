@@ -1,6 +1,6 @@
 # Representation of Distinct Dimensions of Episodic Retrieval Along the Hippocampal Long Axis
 
-**Conference:** International Conference on Memory (ICOM) | Budapest, Hungary
+**Conference:** International Conference on Memory (ICOM) | 2016 | Budapest, Hungary
 
 **Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all analyses in MATLAB and SPSS, developed primary data visualizations, and authored the presentation materials.
 
