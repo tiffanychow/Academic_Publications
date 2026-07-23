@@ -1,6 +1,6 @@
 # Apolipoprotein ɛ4 Carrier Status Impacts Affective and Cognitive Empathy
 
-**Conference:** Society for Neuroscience (SfN) Annual Meeting | 2018 | San Diego, CA, USA
+**Conference:** Society for Neuroscience (SfN) Annual Meeting | 2018 | Poster Presentation | San Diego, CA, USA
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (genetic and behavioral), conducted all statistical modeling and data visualizations in R, and authored the presentation materials.
 
