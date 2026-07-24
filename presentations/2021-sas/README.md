@@ -14,10 +14,10 @@
 
 * **Approach:** Evaluated a cohort of 86 cognitively healthy older adults participating in a longitudinal aging study, stratifying them into positive Aβ (Aβ+; *n* = 23) and negative Aβ (Aβ-; *n* = 63) groups using molecular positron emission tomography (PET) imaging. Conducted multivariate mixed-model regressions to evaluate longitudinal group differences in emotional empathy via informant ratings on the Interpersonal Reactivity Index (IRI) measure as well as SN connectivity. Forward-selection hierarchical regression analyses were applied to assess SN functional connectivity features that predicted individual empathy changes over time.
 
-* **Takeaway:** Aβ relates to both heightened emotional empathy and brain network connectivity. Although the two groups displayed similar empathy levels at baseline, the Aβ+ cohort experienced **significantly steeper longitudinal gains in emotional empathy**, which was **predicted by hyperconnectivity between key SN areas**. These findings suggest that rising emotional empathy may serve as a *very early preclinical indicator of AD pathology*, driven by *functional alterations in emotion-generating neural circuits*.
+* **Takeaway:** Aβ relates to both heightened emotional empathy and brain network connectivity in cognitively normal older adults. Although the two groups displayed similar empathy levels at baseline, the Aβ+ cohort experienced **significantly steeper longitudinal gains in emotional empathy**, which was **predicted by hyperconnectivity between key SN areas**. These findings suggest that rising emotional empathy may serve as a *very early preclinical indicator of AD pathology*, driven by *functional alterations in emotion-generating neural circuits*.
 
 ---
 
-View the abstract submission below.
+View the abstract submission below, and click to view the high-resolution PDF.
 
-![SAS Abstract](2021-chow-sas.pdf)
+[![SAS Abstract Thumbnail](2021-chow-sas.png)](./2021-chow-sas.pdf)
