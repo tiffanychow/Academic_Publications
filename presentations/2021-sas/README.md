@@ -20,4 +20,4 @@
 
 View the abstract submission below.
 
-![SAS Abstract](2021-chow-sas.png)
+![SAS Abstract](2021-chow-sas.pdf)
